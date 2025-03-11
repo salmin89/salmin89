@@ -1,1 +1,1 @@
-![](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/thinking-face_1f914.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=1&hide=javascript&layout=compact)
